@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__just_deep yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__just_deep yadav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/itsakash18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsakash18/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradeep-yadav-7562722a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsakash18/" height="30" width="40" /></a>
 <a href="https://instagram.com/mysterious-deep-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__its_akash.18" height="30" width="40" /></a>
 </p>
 
