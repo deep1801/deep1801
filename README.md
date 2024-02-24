@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/__just_deep" target="blank"><img src="https://img.shields.io/twitter/follow/__just_deep?logo=twitter&style=for-the-badge" alt="__just_deep" /></a> </p>
 
-- 🔭 I’m currently working on *LMS and CryptoWorld*
+- 🔭 I’m currently working on *News Website and Quiz *
 
 - 👯 I’m looking to collaborate on *Ideas of any web dev Project*
 
-- 💬 Ask me about *HTML, CSS, JS, ReactJS, TailwindCSS, NodeJS, Express*
+- 💬 Ask me about *HTML, CSS, JS, ReactJS, TailwindCSS*
 
 - 📫 How to reach me *pradeepyadav20036@gmail.com*
 
