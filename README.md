@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on *Ideas of any web dev Project*
 
-- 💬 Ask me about *HTML, CSS, JS, ReactJS, TailwindCSS*
+- 💬 Ask me about *HTML, CSS, JS, ReactJS, TailwindCSS,NodeJs,MongoDb*
 
 - 📫 How to reach me *pradeepyadav20036@gmail.com*
 
